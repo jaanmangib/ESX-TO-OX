@@ -1,3 +1,5 @@
+# Unsupported [ox_inventory](https://github.com/overextended/ox_inventory) support end!
+
 # 🔄 ESX to ox_core Conversion Guide
 
 This guide helps you convert your legacy **ESX-based** FiveM scripts to the modern, performant **ox_core** framework.
